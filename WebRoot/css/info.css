@@ -1,0 +1,22 @@
+@charset "utf-8";
+html,body
+{
+  text-align:center;
+  background-color:#CCCCFF;
+  margin:0px;
+  padding:0px;
+}
+#contion
+   {
+	 width:800px;
+ 	 height:700px;
+	 border-style:solid;
+	 border-color:#6633FF;
+   }
+#top
+   {
+   	 background-image:url(../pic/header.jpg);
+	 width:800px;
+	 height:130px;
+	 
+  }

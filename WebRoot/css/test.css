@@ -1,0 +1,15 @@
+/* CSS Document */
+@charset "utf-8";
+html,body
+{
+  text-align:center;
+  background-color:#CCCCFF;
+  margin:0px;
+  padding:0px;
+}
+#top
+   {
+   background-image:url(../jsp/top.jpg);
+	 width:800px; 
+	 height:130px;
+   }
